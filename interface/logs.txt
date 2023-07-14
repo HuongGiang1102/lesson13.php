@@ -1,0 +1,9 @@
+[INFO] This is an information message
+[WARNING] This is a warning message
+[ERROR] This is an error message
+[INFO] This is an information message
+[WARNING] This is a warning message
+[ERROR] This is an error message
+[INFO] This is an information message
+[WARNING] This is a warning message
+[ERROR] This is an error message
